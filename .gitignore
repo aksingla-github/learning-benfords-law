@@ -1,2 +1,3 @@
 venv/
 virtual-environment/
+.pytest_cache/

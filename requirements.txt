@@ -3,3 +3,4 @@ matplotlib==3.8.2
 pytest==7.4.3
 flask
 fastapi
+uvicorn[standard]
